@@ -1,0 +1,53 @@
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.deps.json
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csprojAssemblyReference.cache
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfoInputs.cache
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfo.cs
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.pdb
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\Милорд\Desktop\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.pdb
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.deps.json
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.pdb
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csprojAssemblyReference.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfoInputs.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfo.cs
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba4\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.pdb
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.deps.json
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.pdb
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csprojAssemblyReference.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfoInputs.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfo.cs
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba5\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.pdb
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba8\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.deps.json
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba8\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba8\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.pdb
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba8\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csprojAssemblyReference.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba8\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfoInputs.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba8\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfo.cs
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba8\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba8\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba8\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.pdb
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba9\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.deps.json
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba9\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba9\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.pdb
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba9\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csprojAssemblyReference.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba9\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfoInputs.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba9\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfo.cs
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba9\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba9\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\Милорд\Desktop\Лаба ВебТХ\Laba9\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.pdb
+C:\Users\anast\OneDrive\Рабочий стол\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.deps.json
+C:\Users\anast\OneDrive\Рабочий стол\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\anast\OneDrive\Рабочий стол\Lab1\Lab1.DAL\bin\Debug\netcoreapp3.1\Lab1.DAL.pdb
+C:\Users\anast\OneDrive\Рабочий стол\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\anast\OneDrive\Рабочий стол\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfoInputs.cache
+C:\Users\anast\OneDrive\Рабочий стол\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.AssemblyInfo.cs
+C:\Users\anast\OneDrive\Рабочий стол\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.dll
+C:\Users\anast\OneDrive\Рабочий стол\Lab1\Lab1.DAL\obj\Debug\netcoreapp3.1\Lab1.DAL.pdb
